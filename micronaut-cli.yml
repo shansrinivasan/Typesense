@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.equinox.appstore.typesense
+testFramework: spock
+sourceLanguage: groovy
+buildTool: maven
+features: [app-name, aws-codebuild-workflow-ci, aws-lambda, aws-lambda-events-serde, aws-lambda-handler-default, aws-secrets-manager, groovy, groovy-application, groovy-maven-plus-plugin, http-client, log4j2, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, openapi, properties, readme, retry, serialization-jackson, shade, snapstart, spock, spring, spring-boot, tracing-opentelemetry-annotations, tracing-opentelemetry-exporter-otlp, tracing-opentelemetry-http, tracing-opentelemetry-xray, x86]
